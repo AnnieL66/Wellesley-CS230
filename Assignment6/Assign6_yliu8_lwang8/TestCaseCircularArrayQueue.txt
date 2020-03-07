@@ -1,0 +1,24 @@
+Test CircularArrayQueue Enqueue: 
+I
+Love
+Wellesley
+
+Delete an item from queue (should be "I"): I
+Size of the queue (should be 2): 2
+Is Empty:false
+Return the front element:Love
+
+Test Edge Case (if size > Default capacity): 
+Love
+Wellesley
+Happy
+Everyday
+YEAH
+
+Size of the queue (should be 5): 5
+Delete all items from queue: LoveWellesleyHappyEverydayYEAH
+Test Edge Case (delete an item if size = 0) 
+
+javafoundations.exceptions.EmptyCollectionException: Dequeue operation failed. The queue is empty.
+	at javafoundations.CircularArrayQueue.dequeue(CircularArrayQueue.java:71)
+	at QueueDriver.main(QueueDriver.java:55)

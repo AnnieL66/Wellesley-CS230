@@ -1,0 +1,17 @@
+Test ArrayQueue Enqueue: 
+a
+b
+c
+
+Delete an item from queue (should be 'a'): a
+Size of the queue (should be 2): 2
+Is Empty:false
+Return the front element:b
+
+Delete all items from queue: b c
+Is Empty:true
+Test Edge Case (delete an item if size = 0) 
+
+javafoundations.exceptions.EmptyCollectionException: Dequeue operation failed. The queue is empty.
+	at javafoundations.CircularArrayQueue.dequeue(CircularArrayQueue.java:71)
+	at QueueDriver.main(QueueDriver.java:82)

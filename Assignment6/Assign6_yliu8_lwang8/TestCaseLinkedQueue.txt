@@ -1,0 +1,17 @@
+Test LinkedQueue Enqueue: 
+10
+20
+30
+40
+
+Delete an item from queue (should be 10): 10
+Size of the queue (should be 3): 3
+Is Empty:false
+Return the front element:20
+Delete all items from queue: 20 30 40
+Is Empty:true
+Test Edge Case (delete an item if size = 0) 
+
+javafoundations.exceptions.EmptyCollectionException: queue
+	at javafoundations.LinkedQueue.dequeue(LinkedQueue.java:53)
+	at QueueDriver.main(QueueDriver.java:33)

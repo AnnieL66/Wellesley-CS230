@@ -1,0 +1,13 @@
+Q1: O(n), because the order of this entire method is the product of the order of the body (O(n) * O(1) * k = O(n)). Since 1 is so small that we can ignore, the order of the whole method is therefore O(n).
+
+Q2: O(1), because checking whether two values are equal only need one time calculation, so that the computer can execute the statement in one instruction.
+
+Q3: O(n), because the time that the calculation will be run depends on how many CDs there are in the data set.
+
+Q4: O(1), because though the line contains several methods, but neither of them involves going through a series of data. Therefore, the overall big O notation for the line is 1.
+
+Q5: O(1), because assigning a new element to the array is a calculation that only needs to be run once.
+
+Q6: O(1), because it is a one time calculation which assigns the int cd to the new value (cd+1).
+
+Q7: O(1), because returning a value that is already stored is a one time calculation. 
