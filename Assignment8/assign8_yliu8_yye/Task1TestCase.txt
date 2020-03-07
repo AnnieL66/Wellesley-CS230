@@ -1,0 +1,59 @@
+New graph created.
+Graph is empty.
+isEmpty is TRUE: true
+An empty graph has: 0(0) vertices and 0(0) arcs
+Adding 6 vertices: A, B, C, D, E, F
+After adding 6 vertices, it has: 6(6) vertices and 0(0) arcs
+isArc between A and B is FALSE: false
+
+Test Edge Case
+Test adding an Vertex that alredy exist. Add F
+Now it has: 6(6) vertices and 0(0) arcs
+Test removing an Vertex that doesn't exist. Remove H
+Now it has: 6(6) vertices and 0(0) arcs
+
+Added A->B, B--C, C--D.
+After adding edges AB, BC, CD, AF, AD, 
+the graph has: 6(6) vertices and 10(10) arcs.
+Arcs
+-----
+i A B C D E F 
+A - 1 - 1 - 1 
+B 1 - 1 - - - 
+C - 1 - 1 - - 
+D 1 - 1 - - - 
+E - - - - - - 
+F 1 - - - - - 
+
+Test Edge Case
+Test removing an Edge that doesn't exist. Remove A-C
+Now it has: 6(6) vertices and 10(10) arcs
+Test adding an Edge that already exist. Add A-B
+Now it has: 6(6) vertices and 10(10) arcs
+Test removing an arc that doesn't exist. Remove B-F
+Now it has: 6(6) vertices and 10(10) arcs
+Test adding an Arc that already exist. Add C-D
+Now it has: 6(6) vertices and 10(10) arcs
+
+A removed; B->E added; Draph has now: 5(5) vertices and 5(5) arcs.
+Arcs
+-----
+i B C D E F 
+B - 1 - 1 - 
+C 1 - 1 - - 
+D - 1 - - - 
+E - - - - - 
+F - - - - - 
+
+Test saveTGF
+Test read from TGF
+Arcs
+-----
+i A B C D E F 
+A - 1 - 1 - 1 
+B 1 - 1 - - - 
+C - 1 - 1 - - 
+D 1 - 1 - - - 
+E - - - - - - 
+F 1 - - - - - 
+

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BoundedQueue
+comment1.params=n
+comment1.target=BoundedQueue(int)
+comment1.text=\n\ A\ constructor\ that\ takes\ an\ integer\ argument\ corresponding\ \n\ to\ the\ capacity\ of\ the\ bounded\ queue.\n
+comment2.params=
+comment2.target=boolean\ isFull()
+comment2.text=\n\ \ Indicates\ if\ the\ bounded\ queue\ is\ at\ capacity\ or\ not\n
+comment3.params=element
+comment3.target=void\ enqueue(java.lang.Object)
+comment3.text=\n\ Adds\ the\ specified\ element\ to\ the\ rear\ of\ this\ queue,\ \n\ only\ enqueues\ an\ element\ if\ the\ queue\ is\ not\ at\ capacity.\n
+numComments=4

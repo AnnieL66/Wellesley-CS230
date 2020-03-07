@@ -1,0 +1,16 @@
+Test BoundedQueue Enqueue: 
+2
+3
+4
+5
+
+Is Full:true
+Delete an item from queue (should be 3): 2
+Size of the queue (should be 3): 3
+Is Empty:false
+Return the front element:3
+
+Test Edge Case (if size > Default capacity): 
+java.lang.IndexOutOfBoundsException: Queue is at capacity.
+	at javafoundations.BoundedQueue.enqueue(BoundedQueue.java:44)
+	at BoundedQueueDriver.main(BoundedQueueDriver.java:29)

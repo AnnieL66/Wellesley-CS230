@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GuitarString
+comment1.params=frequency
+comment1.target=GuitarString(double)
+comment1.text=\n\ The\ constructor\ creates\ a\ guitar\ string\ of\ the\ given\ frequency,\n\ initializes\ a\ bounded\ queue\ of\ the\ desired\ capacity\ N,\ and\ fills\ \n\ the\ bounded\ queue\ with\ N\ zeros\ to\ model\ a\ guitar\ string\ at\ rest.\n
+comment2.params=
+comment2.target=void\ pluck()
+comment2.text=\n\ Replaces\ the\ N\ samples\ in\ the\ bounded\ queue\ with\ N\ random\ values\ \n\ between\ -0.5\ and\ +0.5.\n
+comment3.params=
+comment3.target=double\ sample()
+comment3.text=\n\ Returns\ the\ value\ of\ the\ item\ at\ the\ front\ of\ the\ bounded\ queue.\n
+comment4.params=
+comment4.target=void\ tic()
+comment4.text=\n\ \ Applies\ the\ Karplus-Strong\ algorithm.\ It\ deletes\ the\ sample\ at\ \n\ \ the\ front\ of\ the\ bounded\ queue\ and\ adds\ to\ the\ end\ of\ the\ bounded\ \n\ \ queue\ the\ average\ of\ the\ deleted\ sample\ and\ the\ sample\ at\ the\ \n\ \ front\ of\ the\ bounded\ queue,\ multiplied\ by\ the\ energy\ decay\ factor.\n
+numComments=5
