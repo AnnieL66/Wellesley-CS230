@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sort
+comment0.text=\n\ Sort.java\ <br>\n\ The\ first\ for-loop\ in\ sortArray\ iterates\ through\ the\ input\ array\ in\ reversed\ order\ of\ the\ indices.\n\ The\ second\ for-loop\ iterates\ through\ all\ the\ elements\ that\ come\ before\ the\ current\ element\ in\ the\ first\ loop.\n\ It\ finds\ out\ the\ maximun\ number\ and\ its\ index\ by\ comparing\ maxNum\ with\ each\ element\ iterated\ by\ the\ second\ loop\n\ and\ resetting\ the\ maxNum\ and\ maxIndex.\ \n\ \n\ <br>\n\ Finally,\ it\ swaps\ the\ element\ in\ the\ first\ loop\ and\ the\ maximun\ found\ in\ the\ second\ loop\ so\ that\ all\ the\ maximums\ relative\ to\n\ every\ sections\ of\ the\ array\ is\ automatically\ placed\ at\ the\ very\ end\ of\ the\ output\ array.\ Once\ it\ is\ done,\ \n\ the\ first\ loop\ continues\ its\ journey\ backwards\ and\ when\ it\ finishes,\ the\ input\ array\ is\ sorted\ in\ increasing\ order.\n
+comment1.params=arrayA
+comment1.target=void\ sortArray(int[])
+comment1.text=\n\ Sorts\ the\ integers\ in\ the\ input\ array\ in\ increasing\ order\n
+comment2.params=arrayA\ i\ j
+comment2.target=void\ swap(int[],\ int,\ int)
+comment2.text=\n\ Exchanges\ the\ contents\ of\ locations\ i\ and\ j\ in\ the\ input\ array\n
+numComments=3

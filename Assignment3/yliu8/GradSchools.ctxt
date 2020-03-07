@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GradSchools
+comment1.params=size
+comment1.target=GradSchools(int)
+comment2.params=
+comment2.target=GradSchools()
+comment3.params=name\ academics\ research\ pubs
+comment3.target=void\ addSchool(java.lang.String,\ int,\ int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=weightAcademics\ weightResearch\ weightPubs
+comment5.target=void\ computeRatings(int,\ int,\ int)
+comment6.params=arrayA\ i\ j
+comment6.target=void\ swap(School[],\ int,\ int)
+comment7.params=arrayA\ factor
+comment7.target=void\ sortSchoolArray(School[],\ java.lang.String)
+comment8.params=factor
+comment8.target=void\ rankSchools(java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

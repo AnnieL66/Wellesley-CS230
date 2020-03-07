@@ -1,0 +1,100 @@
+
+Name: MIT
+Academics: 10
+Research: 10
+Publications: 7
+Overall rating: 78
+Current rank: 0
+
+Name: Stanford
+Academics: 8
+Research: 10
+Publications: 9
+Overall rating: 82
+Current rank: 0
+
+Name: CMU
+Academics: 7
+Research: 8
+Publications: 6
+Overall rating: 62
+Current rank: 0
+
+Name: UC Berkeley
+Academics: 9
+Research: 9
+Publications: 9
+Overall rating: 81
+Current rank: 0
+
+Name: Penguin University
+Academics: 2
+Research: 2
+Publications: 2
+Overall rating: 18
+Current rank: 0
+
+
+Ranking of schools from highest to lowest using Academics as a factor:
+MIT
+UC Berkeley
+Stanford
+CMU
+Penguin University
+
+Ranking of schools from highest to lowest using Effectiveness as a factor:
+Stanford
+MIT
+UC Berkeley
+CMU
+Penguin University
+
+Ranking of schools from highest to lowest using Publications as a factor:
+UC Berkeley
+Stanford
+MIT
+CMU
+Penguin University
+
+Ranking of schools from highest to lowest using Overall as a factor:
+Stanford
+UC Berkeley
+MIT
+CMU
+Penguin University
+
+Name: Penguin University
+Academics: 2
+Research: 2
+Publications: 2
+Overall rating: 18
+Current rank: 5
+
+Name: CMU
+Academics: 7
+Research: 8
+Publications: 6
+Overall rating: 62
+Current rank: 4
+
+Name: MIT
+Academics: 10
+Research: 10
+Publications: 7
+Overall rating: 78
+Current rank: 3
+
+Name: UC Berkeley
+Academics: 9
+Research: 9
+Publications: 9
+Overall rating: 81
+Current rank: 2
+
+Name: Stanford
+Academics: 8
+Research: 10
+Publications: 9
+Overall rating: 82
+Current rank: 1
+

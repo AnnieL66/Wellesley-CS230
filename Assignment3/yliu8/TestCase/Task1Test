@@ -1,0 +1,21 @@
+Bank account number: 1
+ Balance: $1,800.00
+ Minimum balance is: $200.00
+Bank account number: 2
+ Balance: $6,000.00
+ Interest Rate: 5%
+Bank account number: 2
+ Balance: $6,025.00
+ Interest Rate: 5%
+Not enought money in Checking Account. Unable to Withdraw
+Bank account number: 1
+ Balance: $1,800.00
+ Minimum balance is: $200.00
+Below Minimum Balance. Charge overdraft fees.
+Bank account number: 1
+ Balance: $149.00
+ Minimum balance is: $200.00
+Not enought money in Saving Account. Unable to Withdraw
+Bank account number: 2
+ Balance: $6,025.00
+ Interest Rate: 5%
