@@ -1,0 +1,9 @@
+http://www.bing.com
+http://www.google.com
+
+Results from visiting 2 pages: 
+http://www.google.com : 6 : <!doctype html><html...
+http://www.bing.com : 29 : <!DOCTYPE html PUBLI...
+
+The largest Webpage was: http://www.bing.com : 29 : <!DOCTYPE html PUBLI...
+

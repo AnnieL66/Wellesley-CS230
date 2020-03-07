@@ -1,0 +1,23 @@
+**test webPageChar method
+Print out first 20 characters of google and bing:
+<!doctype html><html...
+<!DOCTYPE html PUBLI...
+
+**test getURL and setURL
+http://www.bing.com
+https://www.amazon.com
+https://www.netflix.com
+
+**test getLineCounter and setLineCounter
+7
+1081
+1
+0
+
+**test isValidURL
+Output should be true: true
+Output should be false: false
+
+**test compareTo
+Output should be a positive integer: 1
+Output should be a negative integer: -1

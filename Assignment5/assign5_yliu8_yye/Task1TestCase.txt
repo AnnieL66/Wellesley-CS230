@@ -1,0 +1,32 @@
+Before pushing: 
+<top of stack>
+<bottom of stack>
+After pushing: 
+<top of stack>
+Science
+Computer
+<bottom of stack>
+Pop returns Science
+After popping: 
+ <top of stack>
+Computer
+<bottom of stack>
+Size: 1
+Is empty: false
+After pushing: 
+ <top of stack>
+Wellesley
+Love
+I
+Computer
+<bottom of stack>
+Peek:Wellesley
+Pop returns Wellesley
+Pop returns Love
+Pop returns I
+Pop returns Computer
+After popping: 
+ <top of stack>
+<bottom of stack>
+Size: 0
+Is empty: true
