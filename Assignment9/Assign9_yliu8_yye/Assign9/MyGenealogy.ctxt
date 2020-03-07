@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MyGenealogy
+comment0.text=\n\ MyGenealogy.java\n\ uses\ GenealogyTree.java\ with\ an\ ancestral\ tree\ which\ contains\ \n\ my\ biological\ heritage.\n\ My\ name\ appears\ at\ the\ root\ (the\ Center\ of\ The\ Universe),\ \n\ and\ its\ two\ "children"\ contain\ my\ parents'\ names.\n\ My\ father's\ on\ the\ left\ and\ my\ mother's\ on\ the\ right.\ \n\ Include\ grandparents.\n\ \n\ @author\ Yaxin(Annie)\ Liu\n\ @version\ Nov\ 25,\ 2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

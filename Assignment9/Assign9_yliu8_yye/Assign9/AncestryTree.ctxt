@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=AncestryTree
+comment0.text=\n\n\ AncestryTree.java\ \ \ \ \ \ \ @author\ Takis\ Metaxas\n\ Defines\ an\ interface\ appropriate\ for\ a\ biological\ ancestry\ tree.\n\ NOTE\ that\ Ancestral\ tree\ has\ terms\ that\ do\ not\ match\ CS\ tree\ terms\n\ so\ we\ use\ distinctive\ terms\ for\ Ancestry\ (e.g.,\ Offspring).\n\ Paternal\ ancestors\ are\ on\ the\ left,\ Maternal\ ancestors\ on\ the\ right\n\ This\ tree\ should\ NOT\ contain\ duplicate\ elements\n
+comment1.params=
+comment1.target=java.lang.Object\ getCoTU()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=java.util.Iterator\ byGenerations()
+comment2.params=target
+comment2.target=java.lang.Object\ getOffspring(java.lang.Object)
+comment3.params=target
+comment3.target=java.lang.Object\ getPater(java.lang.Object)
+comment4.params=target\ lchild
+comment4.target=void\ setPater(java.lang.Object,\ java.lang.Object)
+comment5.params=target
+comment5.target=java.lang.Object\ getMater(java.lang.Object)
+comment6.params=target\ rchild
+comment6.target=void\ setMater(java.lang.Object,\ java.lang.Object)
+comment7.params=target
+comment7.target=boolean\ appears(java.lang.Object)
+comment8.params=gp1\ gp2
+comment8.target=boolean\ inLaws(java.lang.Object,\ java.lang.Object)
+comment9.params=
+comment9.target=int\ size()
+numComments=12
