@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=musicTernaryTree
+comment1.params=
+comment1.target=musicTernaryTree()
+comment1.text=\n\ Constructor\ for\ class\ musicTernaryTree\n
+comment2.params=
+comment2.target=javafoundations.LinkedTernaryTree\ getMusicTree()
+comment2.text=\n\ A\ getter\ that\ returns\ a\ musicTree.\n\ @return\ LinkedTernaryTree\ musicTree\n
+numComments=3

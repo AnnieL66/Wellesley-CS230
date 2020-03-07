@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=songNamesVector
+comment1.params=
+comment1.target=songNamesVector()
+comment1.text=\n\ Constructor\ for\ class\ songNamesVector\n
+comment2.params=arrayIndex
+comment2.target=java.lang.String\ getOneSong(java.lang.String)
+comment2.text=\n\ Returns\ one\ randomly\ generated\ song\ from\ the\ corresponding\ array\ given\ its\ index.\n\ \n\ @param\ String\ arrayIndex\ which\ is\ a\ String\ passed\ from\ musicTernaryTree\ class\n\ @return\ String\ songName\n
+numComments=3

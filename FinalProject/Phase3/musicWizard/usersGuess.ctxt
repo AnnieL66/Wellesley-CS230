@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=usersGuess
+comment0.text=\n\ usersGuess.java\ <br>\n\ A\ helper\ class\ that\ implements\ the\ Comparable\ interface\ and\ compares\ user's\ input\ \n\ with\ a\ provided\ songName\ String.\ <br>\n\n\ @author\ Vera\ Ye\ and\ Yaxin\ Liu\n\ @version\ v2,\ Dec\ 14,\ 2018\n
+comment1.params=myGuess
+comment1.target=usersGuess(java.lang.String)
+comment1.text=\n\ Constructor\ for\ usersGuess\ class\n
+comment2.params=
+comment2.target=java.lang.String\ getGuess()
+comment2.text=\n\ A\ getter\ that\ returns\ user's\ guess.\n\ \n\ @return\ String\ guess\n
+comment3.params=g
+comment3.target=int\ compareTo(usersGuess)
+comment3.text=\n\ Compare\ the\ original\ songName\ String\ to\ the\ user\ input\ (guessed)\n\ songName\ String.\ \n\ According\ to\ the\ Comparable\ Interface,\ \n\ return\ zero\ if\ the\ two\ Strings\ are\ the\ same,\ or\ \n\ return\ a\ negative\ or\ positive\ number\ if\ the\ two\ Strings\ are\ different.\ \n\ \n\ @param\ usersGuess\ g\n\ @return\ int\ indicating\ if\ the\ two\ Strings\ are\ the\ same\n
+numComments=4

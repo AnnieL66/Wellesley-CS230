@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=encryptedNamesQueue
+comment1.params=myMessage
+comment1.target=encryptedNamesQueue(java.lang.String)
+comment1.text=\n\ Constructor\ for\ the\ class\ encryptedNamesQueue\n
+comment2.params=
+comment2.target=int[]\ findShift()
+comment2.text=\n\ Helper\ class.\n\ Finds\ the\ index\ of\ characters\ in\ password\ String.\n\ \n\ @return\ int[]\ shiftNum\n
+comment3.params=shiftNum
+comment3.target=char[]\ hardEncrypt(int[])
+comment3.text=\n\ Performs\ a\ hard\ encryption.\n\ \n\ @param\ int[]\ shiftNum\ that\ store\ the\ shift\ units\ found\ based\ on\ password\n\ @return\ char[]\ encryptedMessage\n
+comment4.params=
+comment4.target=char[]\ easyEncrypt()
+comment4.text=\n\ Performs\ an\ easy\ encryption\ given\ a\ message.\n\ \n\ @return\ char[]\ encryptedMessage\ which\ is\ the\ backward\ song\ name\n
+comment5.params=inputArray
+comment5.target=java.lang.String\ toString(char[])
+comment5.text=\n\ Helper\ method\ that\ turns\ a\ char\ array\ to\ String.\n\ \n\ @param\ char[]\ inputArray\n\ @String\ result\n
+comment6.params=
+comment6.target=javafoundations.ArrayQueue\ buildArray()
+comment6.text=\n\ Build\ a\ corresponding\ ArrayQueue\ that\ contains\ the\ two\ encrypted\ Strings.\n\ \n\ @return\ ArrayQueue<String>\ that\ contains\ the\ encrypted\ results\n
+numComments=7
