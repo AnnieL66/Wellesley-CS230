@@ -1,0 +1,22 @@
+The point is (1.0,2.0)
+The x-coordinate of second point is 5.0
+The y-coordinate of second point is 3.0
+The y-coordinate of first point after changing is 3.0
+Enter x-coordinate: 
+4.6
+Enter y-coordinate: 
+3.9
+The point is (4.6,3.9)
+The distance between these two point is: 0.9848857801796105
+Are the difference in distance from the current Point to each of those inputs is within TOLERANCE?true
+The point is (3.5,9.4)
+The x-coordinate of second point is 5.9
+The y-coordinate of second point is 2.4
+The y-coordinate of first point after changing is 2.0
+Enter x-coordinate: 
+4
+Enter y-coordinate: 
+5
+The point is (4.0,5.0)
+The distance between these two point is: 3.0413812651491097
+Are the difference in distance from the current Point to each of those inputs is within TOLERANCE?true

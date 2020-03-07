@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StringOps
+comment0.text=\n\ Defines\ some\ class\ methods\ that\ process\ Strings\ using\ iteration\ and\ \n\ recursion,\ to\ perform\ tasks\ like\ removing\ a\ character\ from\ a\ String\ \n\ and\ testing\ whether\ two\ Strings\ are\ anagrams.\n\n\ @author\ (Yaxin\ Liu)\n\ @version\ (9/13/18)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=S\ ch
+comment2.target=java.lang.String\ removeChar(java.lang.String,\ char)
+comment3.params=word1\ word2
+comment3.target=void\ testAnagrams(java.lang.String,\ java.lang.String)
+comment4.params=NewWord1\ NewWord2
+comment4.target=boolean\ testAnagramsRec(java.lang.String,\ java.lang.String)
+numComments=5

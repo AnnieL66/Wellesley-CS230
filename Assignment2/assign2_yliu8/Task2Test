@@ -1,0 +1,24 @@
+Name of the airline:
+Delta
+From:
+Boston
+To:
+Seattle
+Flight number:
+78924
+Your flight Delta 78924 are from Boston to Seattle
+Delta
+Your flight Delta 123456 are from Boston to Seattle
+Does the flight stop over? true
+Name of the airline:
+Hainan Airline
+From:
+Newyork
+To:
+China
+Flight number:
+29104
+Your flight Hainan Airline 29104 are from Newyork to China
+Hainan Airline
+Your flight Hainan Airline 123456 are from Newyork to China
+Does the flight stop over? false
