@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Encryptable
+comment0.text=\n\ Represents\ the\ interface\ for\ an\ object\ that\ can\ be\ encrypted\ and\ decrypted.\n\n\ @author\ (Java\ Foundations)\n\ @version\ (9/28/18)\n
+comment1.params=
+comment1.target=void\ encrypt()
+comment2.params=
+comment2.target=java.lang.String\ decrypt()
+numComments=3
