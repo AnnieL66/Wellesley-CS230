@@ -1,5 +1,4 @@
-# Wellesley-CS230
-Data Structures
+# Wellesley-CS230 Data Structures
 An introduction to techniques and building blocks for organizing large programs. 
 Topics include: modules, abstract data types, recursion, algorithmic efficiency, 
 and the use and implementation of standard data structures and algorithms, such 
