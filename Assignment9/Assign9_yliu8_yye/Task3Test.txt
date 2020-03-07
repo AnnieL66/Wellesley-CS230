@@ -1,0 +1,136 @@
+Choose the Grad school that fits you the best.
+Designed by Annie and Vera.
+------
+Select the Schools tab to add Schools. Then select the Evaluate tab to evaluate them.
+Have fun choosing your Grad Schools :)
+
+Fill in the information to add a school, then click "Add School".
+Use the sliders to assign weights in each category. You will then see the top school.
+School: Wellesley Academics: 5 Research: 4 Publications: 5 Overall: 0 Current rank: 0
+School: MIT Academics: 4 Research: 5 Publications: 5 Overall: 0 Current rank: 0
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 0
+ Current rank: 0
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 25
+ Current rank: 25
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 25
+ Current rank: 25
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 25
+ Current rank: 25
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 0
+ Current rank: 0
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 0
+ Current rank: 0
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 0
+ Current rank: 0
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 25
+ Current rank: 25
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 25
+ Current rank: 25
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 25
+ Current rank: 25
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 45
+ Current rank: 45
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 45
+ Current rank: 45
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 45
+ Current rank: 45
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 50
+ Current rank: 50
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 50
+ Current rank: 50
+
+School: MIT
+ Academics: 4
+ Research: 5
+ Publications: 5
+ Overall: 50
+ Current rank: 50
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 30
+ Current rank: 30
+
+School: Wellesley
+ Academics: 5
+ Research: 4
+ Publications: 5
+ Overall: 30
+ Current rank: 30
+

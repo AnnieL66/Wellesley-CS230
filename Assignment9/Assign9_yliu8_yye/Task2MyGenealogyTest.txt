@@ -1,0 +1,6 @@
+ $ java MyGenealogy
+The GenealogyTree contains 7 members:
+Yaxin L
+Harper L Yanxia W 
+Fuquan L Xianglan Z Qinghai W Aifeng C 
+

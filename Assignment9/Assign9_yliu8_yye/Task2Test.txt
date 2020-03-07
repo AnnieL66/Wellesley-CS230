@@ -1,0 +1,37 @@
+ $ java MyGenealogy
+The GenealogyTree contains 15 members:
+T
+Y E 
+P M B D 
+A C F G H I J K 
+
+T was found (true): true
+E was found (true): true
+Test edge case - find an element that doesn't exist
+V was found (false): false
+
+Offspring of Y is (T): T
+Offspring of D is (E): E
+Edge case - get Offspring of the root
+Offspring of T is (null): null
+
+The root is (T): T
+
+T's paternal grandfather is (P): P
+T's materal grandfather is (D): D
+T's paternal great-grandfather is (A): A
+T's paternal great-grandfather is (K): K
+Edge case
+Test getPater() method for unexisted element:
+Z's grandfather is (null): null
+Test getMater() method for unexisted element:
+S's grandfather is (null): null
+
+P and B are in-laws (true): true
+P and E are in-laws (false): false
+Edge case - Test in-laws() method between one exist element and one unexist element
+S and E are in-laws (false): false
+Edge case - Test in-laws() method between two unexist element
+W and Z are in-laws (false): false
+Edge case - Test getCoTU()() for an empty genealogyTree
+The root is (null): null
