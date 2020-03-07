@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AreaTriangle
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=length1\ length2\ length3
+comment2.target=boolean\ Isoceles(double,\ double,\ double)
+comment3.params=length1\ length2\ length3
+comment3.target=double\ Area(double,\ double,\ double)
+numComments=4
